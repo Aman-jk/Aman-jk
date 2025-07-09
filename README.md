@@ -11,22 +11,51 @@
 
 - 🤝 I’m happy to help with **Python basics, GitHub setup, and college-level projects**
 
-- 📫 How to reach me **amansrivastava@gmail.com**
+- 📫 How to reach me **amansrivastava1306@gmail.com**
 
 - ⚡ Fun fact **I love turning logic into working code**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools I Use:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+
+  <!-- DBMS -->
+  <img src="https://img.shields.io/badge/DBMS-003545?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS" />
+
 </p>
+
 
 ---
 
