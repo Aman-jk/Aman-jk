@@ -48,6 +48,10 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/aman-srivastava-229376312" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:amansrivastava1306@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/aman-srivastava-229376312" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:amansrivastava1306@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="50" width="50" />
+  </a>
 </p>
