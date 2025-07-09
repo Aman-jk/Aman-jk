@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python Projects, GitHub, and Streamlit UI apps**
 
-- 🌱 I’m currently learning **Data Science, AI, and Backend Development**
+- 🌱 I’m currently learning **Data Science, AI, and python Development**
 
 - 👯 I’m looking to collaborate on **cool beginner to intermediate level Python projects**
 
